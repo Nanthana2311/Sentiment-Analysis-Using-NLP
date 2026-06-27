@@ -6,22 +6,22 @@ Machine Learning project for Sentiment Analysis using NLP techniques.
 This project predicts whether a sentence is Positive or Negative using Natural Language Processing (NLP) and Machine Learning.
 
 # Features
-Text Cleaning
-Stopword Removal
-Tokenization
-TF-IDF Vectorization
-Sentiment Prediction
-Word Cloud Visualization
-Confusion Matrix
-Model Evaluation
+. Text Cleaning
+. Stopword Removal
+. Tokenization
+. TF-IDF Vectorization
+. Sentiment Prediction
+. Word Cloud Visualization
+. Confusion Matrix
+. Model Evaluation
 # Technologies Used
-Python
-Pandas
-NumPy
-NLTK
-TextBlob
-Scikit-Learn
-Matplotlib
+. Python
+. Pandas
+. NumPy
+. NLTK
+. TextBlob
+. Scikit-Learn
+. Matplotlib
 # Installation
 pip install -r requirements.txt
 # Run
